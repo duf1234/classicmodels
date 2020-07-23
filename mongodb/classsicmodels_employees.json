@@ -1,0 +1,1287 @@
+[
+  {
+    "_id": {"$oid": "5f18d859bfc7c31494a3ffe1"},
+    "email": "dmurphy@classicmodelcars.com",
+    "employeesNumber": 1002,
+    "extension": "x5800",
+    "firstName": "Diane",
+    "jobTitle": "President",
+    "lastName": "Murphy",
+    "offices": [
+      {
+        "city": "London",
+        "phone": "+44 20 7877 2041",
+        "addressLine1": "25 Old Broad Street",
+        "country": "UK",
+        "territory": "EMEA"
+      },
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "4",
+          "city": "Paris",
+          "phone": "+33 14 723 4404",
+          "addressLine1": "43 Rue Jouffroy D'abbans",
+          "country": "France",
+          "territory": "EMEA"
+        }
+      ],
+      [
+        {
+          "officeCode": "5",
+          "city": "Tokyo",
+          "phone": "+81 33 224 5000",
+          "addressLine1": "4-1 Kioicho",
+          "country": "Japan",
+          "territory": "Japan"
+        }
+      ],
+      [
+        {
+          "officeCode": "6",
+          "city": "Sydney",
+          "phone": "+61 2 9264 2451",
+          "addressLine1": "5-11 Wentworth Avenue",
+          "country": "Australia",
+          "territory": "APAC"
+        }
+      ],
+      [
+        {
+          "officeCode": "7",
+          "city": "London",
+          "phone": "+44 20 7877 2041",
+          "addressLine1": "25 Old Broad Street",
+          "country": "UK",
+          "territory": "EMEA"
+        }
+      ]
+    ]
+  },
+  {
+    "_id": {"$oid": "5f18d85abfc7c31494a3ffe2"},
+    "email": "mpatterso@classicmodelcars.com",
+    "employeesNumber": 1056,
+    "extension": "x4611",
+    "firstName": "Mary",
+    "jobTitle": "VP Sales",
+    "lastName": "Patterson",
+    "offices": [
+      {
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      },
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "addressLine2": "Suite 300",
+          "state": "CA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "addressLine2": "Suite 102",
+          "state": "MA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "addressLine2": "apt. 5A",
+          "state": "NY",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ]
+    ],
+    "reports": 1002
+  },
+  {
+    "_id": {"$oid": "5f18d85abfc7c31494a3ffe3"},
+    "email": "jfirrelli@classicmodelcars.com",
+    "employeesNumber": 1076,
+    "extension": "x9273",
+    "firstName": "Jeff",
+    "jobTitle": "VP Marketing",
+    "lastName": "Firrelli",
+    "offices": [
+      {
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      },
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "addressLine2": "Suite 300",
+          "state": "CA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "addressLine2": "Suite 102",
+          "state": "MA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "addressLine2": "apt. 5A",
+          "state": "NY",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ]
+    ],
+    "reports": 1002
+  },
+  {
+    "_id": {"$oid": "5f18d85abfc7c31494a3ffe4"},
+    "email": "wpatterson@classicmodelcars.com",
+    "employeesNumber": 1088,
+    "extension": "x4871",
+    "firstName": "William",
+    "jobTitle": "Sales Manager (APAC)",
+    "lastName": "Patterson",
+    "offices": [
+      {
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      },
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "addressLine2": "Suite 300",
+          "state": "CA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "addressLine2": "Suite 102",
+          "state": "MA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "addressLine2": "apt. 5A",
+          "state": "NY",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ]
+    ],
+    "reports": 1056
+  },
+  {
+    "_id": {"$oid": "5f18d85bbfc7c31494a3ffe5"},
+    "email": "gbondur@classicmodelcars.com",
+    "employeesNumber": 1102,
+    "extension": "x5408",
+    "firstName": "Gerard",
+    "jobTitle": "Sale Manager (EMEA)",
+    "lastName": "Bondur",
+    "offices": [
+      {
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      },
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "addressLine2": "Suite 300",
+          "state": "CA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "addressLine2": "Suite 102",
+          "state": "MA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "addressLine2": "apt. 5A",
+          "state": "NY",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ]
+    ],
+    "reports": 1056
+  },
+  {
+    "_id": {"$oid": "5f18d85bbfc7c31494a3ffe6"},
+    "email": "abow@classicmodelcars.com",
+    "employeesNumber": 1143,
+    "extension": "x5428",
+    "firstName": "Anthony",
+    "jobTitle": "Sales Manager (NA)",
+    "lastName": "Bow",
+    "offices": [
+      {
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      },
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "addressLine2": "Suite 300",
+          "state": "CA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "addressLine2": "Suite 102",
+          "state": "MA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "addressLine2": "apt. 5A",
+          "state": "NY",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ]
+    ],
+    "reports": 1056
+  },
+  {
+    "_id": {"$oid": "5f18d85bbfc7c31494a3ffe7"},
+    "email": "ljennings@classicmodelcars.com",
+    "employeesNumber": 1165,
+    "extension": "x3291",
+    "firstName": "Leslie",
+    "jobTitle": "Sales Rep",
+    "lastName": "Jennings",
+    "offices": [
+      {
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      },
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "addressLine2": "Suite 300",
+          "state": "CA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "addressLine2": "Suite 102",
+          "state": "MA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "addressLine2": "apt. 5A",
+          "state": "NY",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ]
+    ],
+    "reports": 1143
+  },
+  {
+    "_id": {"$oid": "5f18d85cbfc7c31494a3ffe8"},
+    "email": "lthompson@classicmodelcars.com",
+    "employeesNumber": 1166,
+    "extension": "x4065",
+    "firstName": "Leslie",
+    "jobTitle": "Sales Rep",
+    "lastName": "Thompson",
+    "offices": [
+      {
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      },
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "addressLine2": "Suite 300",
+          "state": "CA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "addressLine2": "Suite 102",
+          "state": "MA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "addressLine2": "apt. 5A",
+          "state": "NY",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ]
+    ],
+    "reports": 1143
+  },
+  {
+    "_id": {"$oid": "5f18d85cbfc7c31494a3ffe9"},
+    "email": "jfirrelli@classicmodelcars.com",
+    "employeesNumber": 1188,
+    "extension": "x2173",
+    "firstName": "Julie",
+    "jobTitle": "Sales Rep",
+    "lastName": "Firrelli",
+    "offices": [
+      {
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      },
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "addressLine2": "Suite 300",
+          "state": "CA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "addressLine2": "Suite 102",
+          "state": "MA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "addressLine2": "apt. 5A",
+          "state": "NY",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ]
+    ],
+    "reports": 1143
+  },
+  {
+    "_id": {"$oid": "5f18d85dbfc7c31494a3ffea"},
+    "email": "spatterson@classicmodelcars.com",
+    "employeesNumber": 1216,
+    "extension": "x4334",
+    "firstName": "Steve",
+    "jobTitle": "Sales Rep",
+    "lastName": "Patterson",
+    "offices": [
+      {
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      },
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "addressLine2": "Suite 300",
+          "state": "CA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "addressLine2": "Suite 102",
+          "state": "MA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "addressLine2": "apt. 5A",
+          "state": "NY",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ]
+    ],
+    "reports": 1143
+  },
+  {
+    "_id": {"$oid": "5f18d85dbfc7c31494a3ffeb"},
+    "email": "ftseng@classicmodelcars.com",
+    "employeesNumber": 1286,
+    "extension": "x2248",
+    "firstName": "Foon Yue",
+    "jobTitle": "Sales Rep",
+    "lastName": "Tseng",
+    "offices": [
+      {
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      },
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "addressLine2": "Suite 300",
+          "state": "CA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "addressLine2": "Suite 102",
+          "state": "MA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "addressLine2": "apt. 5A",
+          "state": "NY",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ]
+    ],
+    "reports": 1143
+  },
+  {
+    "_id": {"$oid": "5f18d85dbfc7c31494a3ffec"},
+    "email": "gvanauf@classicmodelcars.com",
+    "employeesNumber": 1323,
+    "extension": "x4102",
+    "firstName": "George",
+    "jobTitle": "Sales Rep",
+    "lastName": "Vanauf",
+    "offices": [
+      {
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      },
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "addressLine2": "Suite 300",
+          "state": "CA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "addressLine2": "Suite 102",
+          "state": "MA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "addressLine2": "apt. 5A",
+          "state": "NY",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ]
+    ],
+    "reports": 1143
+  },
+  {
+    "_id": {"$oid": "5f18d85dbfc7c31494a3ffed"},
+    "email": "lbondur@classicmodelcars.com",
+    "employeesNumber": 1337,
+    "extension": "x6493",
+    "firstName": "Loui",
+    "jobTitle": "Sales Rep",
+    "lastName": "Bondur",
+    "offices": [
+      {
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      },
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "addressLine2": "Suite 300",
+          "state": "CA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "addressLine2": "Suite 102",
+          "state": "MA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "addressLine2": "apt. 5A",
+          "state": "NY",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ]
+    ],
+    "reports": 1102
+  },
+  {
+    "_id": {"$oid": "5f18d85ebfc7c31494a3ffee"},
+    "email": "ghernande@classicmodelcars.com",
+    "employeesNumber": 1370,
+    "extension": "x2028",
+    "firstName": "Gerard",
+    "jobTitle": "Sales Rep",
+    "lastName": "Hernandez",
+    "offices": [
+      {
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      },
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "addressLine2": "Suite 300",
+          "state": "CA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "addressLine2": "Suite 102",
+          "state": "MA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "addressLine2": "apt. 5A",
+          "state": "NY",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ]
+    ],
+    "reports": 1102
+  },
+  {
+    "_id": {"$oid": "5f18d85ebfc7c31494a3ffef"},
+    "email": "pcastillo@classicmodelcars.com",
+    "employeesNumber": 1401,
+    "extension": "x2759",
+    "firstName": "Pamela",
+    "jobTitle": "Sales Rep",
+    "lastName": "Castillo",
+    "offices": [
+      {
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      },
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "addressLine2": "Suite 300",
+          "state": "CA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "addressLine2": "Suite 102",
+          "state": "MA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "addressLine2": "apt. 5A",
+          "state": "NY",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ]
+    ],
+    "reports": 1102
+  },
+  {
+    "_id": {"$oid": "5f18d85ebfc7c31494a3fff0"},
+    "email": "lbott@classicmodelcars.com",
+    "employeesNumber": 1501,
+    "extension": "x2311",
+    "firstName": "Larry",
+    "jobTitle": "Sales Rep",
+    "lastName": "Bott",
+    "offices": [
+      {
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      },
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "addressLine2": "Suite 300",
+          "state": "CA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "addressLine2": "Suite 102",
+          "state": "MA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "addressLine2": "apt. 5A",
+          "state": "NY",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ]
+    ],
+    "reports": 1102
+  },
+  {
+    "_id": {"$oid": "5f18d85fbfc7c31494a3fff1"},
+    "email": "bjones@classicmodelcars.com",
+    "employeesNumber": 1504,
+    "extension": "x102",
+    "firstName": "Barry",
+    "jobTitle": "Sales Rep",
+    "lastName": "Jones",
+    "offices": [
+      {
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      },
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "addressLine2": "Suite 300",
+          "state": "CA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "addressLine2": "Suite 102",
+          "state": "MA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "addressLine2": "apt. 5A",
+          "state": "NY",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ]
+    ],
+    "reports": 1102
+  },
+  {
+    "_id": {"$oid": "5f18d85fbfc7c31494a3fff2"},
+    "email": "afixter@classicmodelcars.com",
+    "employeesNumber": 1611,
+    "extension": "x101",
+    "firstName": "Andy",
+    "jobTitle": "Sales Rep",
+    "lastName": "Fixter",
+    "offices": [
+      {
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      },
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "addressLine2": "Suite 300",
+          "state": "CA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "addressLine2": "Suite 102",
+          "state": "MA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "addressLine2": "apt. 5A",
+          "state": "NY",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ]
+    ],
+    "reports": 1088
+  },
+  {
+    "_id": {"$oid": "5f18d860bfc7c31494a3fff3"},
+    "email": "pmarsh@classicmodelcars.com",
+    "employeesNumber": 1612,
+    "extension": "x102",
+    "firstName": "Peter",
+    "jobTitle": "Sales Rep",
+    "lastName": "Marsh",
+    "offices": [
+      {
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      },
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "addressLine2": "Suite 300",
+          "state": "CA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "addressLine2": "Suite 102",
+          "state": "MA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "addressLine2": "apt. 5A",
+          "state": "NY",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ]
+    ],
+    "reports": 1088
+  },
+  {
+    "_id": {"$oid": "5f18d860bfc7c31494a3fff4"},
+    "email": "tking@classicmodelcars.com",
+    "employeesNumber": 1619,
+    "extension": "x103",
+    "firstName": "Tom",
+    "jobTitle": "Sales Rep",
+    "lastName": "King",
+    "offices": [
+      {
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      },
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "addressLine2": "Suite 300",
+          "state": "CA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "addressLine2": "Suite 102",
+          "state": "MA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "addressLine2": "apt. 5A",
+          "state": "NY",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ]
+    ],
+    "reports": 1088
+  },
+  {
+    "_id": {"$oid": "5f18d860bfc7c31494a3fff5"},
+    "email": "mnishi@classicmodelcars.com",
+    "employeesNumber": 1621,
+    "extension": "x101",
+    "firstName": "Mami",
+    "jobTitle": "Sales Rep",
+    "lastName": "Nishi",
+    "offices": [
+      {
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      },
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "addressLine2": "Suite 300",
+          "state": "CA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "addressLine2": "Suite 102",
+          "state": "MA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "addressLine2": "apt. 5A",
+          "state": "NY",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ]
+    ],
+    "reports": 1056
+  },
+  {
+    "_id": {"$oid": "5f18d860bfc7c31494a3fff6"},
+    "email": "ykato@classicmodelcars.com",
+    "employeesNumber": 1625,
+    "extension": "x102",
+    "firstName": "Yoshimi",
+    "jobTitle": "Sales Rep",
+    "lastName": "Kato",
+    "offices": [
+      {
+        "city": "NYC",
+        "phone": "+1 212 555 3000",
+        "addressLine1": "523 East 53rd Street",
+        "addressLine2": "apt. 5A",
+        "state": "NY",
+        "country": "USA",
+        "territory": "NA"
+      },
+      [
+        {
+          "officeCode": "1",
+          "city": "San Francisco",
+          "phone": "+1 650 219 4782",
+          "addressLine1": "100 Market Street",
+          "addressLine2": "Suite 300",
+          "state": "CA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "2",
+          "city": "Boston",
+          "phone": "+1 215 837 0825",
+          "addressLine1": "1550 Court Place",
+          "addressLine2": "Suite 102",
+          "state": "MA",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ],
+      [
+        {
+          "officeCode": "3",
+          "city": "NYC",
+          "phone": "+1 212 555 3000",
+          "addressLine1": "523 East 53rd Street",
+          "addressLine2": "apt. 5A",
+          "state": "NY",
+          "country": "USA",
+          "territory": "NA"
+        }
+      ]
+    ],
+    "reports": 1621
+  }
+]
